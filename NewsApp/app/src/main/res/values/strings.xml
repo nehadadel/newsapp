@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Append query parameter and its value. [CHAR LIMIT=NONE] -->
+    <string name="parameter1">api-key</string>
+    <string name="value1">test</string>
+    <string name="parameter2">show-tags</string>
+    <string name="value2">contributor</string>
+
+</resources>
